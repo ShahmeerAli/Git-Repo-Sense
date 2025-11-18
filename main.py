@@ -3,4 +3,6 @@ from dotenv import load_dotenv
 import asyncio
 import os
 
+load_dotenv()
+
 
